@@ -1,0 +1,22 @@
+/* RoomCard.css (or your preferred CSS file) */
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  .header {
+    height: 80px; 
+    background-color: #f1f1f1; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .room-cards {
+    overflow-y: auto; 
+    flex: 1; 
+  }
+  

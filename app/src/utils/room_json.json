@@ -1,0 +1,878 @@
+{
+    "rooms": [
+      {
+        "id": 1,
+        "category": "Design",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Stylish Urban Loft",
+            "description": "Modern loft with an artistic touch in the heart of the city.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?modern,interior",
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 120,
+            "location": "Downtown, San Francisco",
+            "beds":9,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?treehouse,retreat",
+              "https://source.unsplash.com/800x600/?underwater,hotel",
+              "https://source.unsplash.com/800x600/?city,skyline",
+              "https://source.unsplash.com/800x600/?sky,high,apartment",
+              "https://source.unsplash.com/800x600/?forest,lodge",
+              "https://source.unsplash.com/800x600/?space,room",
+              "https://source.unsplash.com/800x600/?bohemian,hideaway",
+              "https://source.unsplash.com/800x600/?luxury,yacht"
+            ],
+            "price": 40,
+            "location": "Midtown, Manhattan",
+            "beds":2,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 3,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?modern,interior",
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical"
+            ],
+            "price": 50,
+            "location": "Midtown, Manhattan",
+            "beds":5,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 4,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?historical,house",
+              "https://source.unsplash.com/800x600/?lakeside,cabin",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 190,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 5,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?seaside,cottage",
+              "https://source.unsplash.com/800x600/?mountain,chalet",
+              "https://source.unsplash.com/800x600/?ski,resort",
+              "https://source.unsplash.com/800x600/?campsite,nature"
+            ],
+            "price": 290,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 6,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?forest,lodge",
+              "https://source.unsplash.com/800x600/?space,room",
+              "https://source.unsplash.com/800x600/?bohemian,hideaway",
+              "https://source.unsplash.com/800x600/?luxury,yacht"
+            ],
+            "price": 20,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 7,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 70,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 8,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://picsum.photos/800/600?random=8"
+            ],
+            "price": 60,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 9,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?treehouse,retreat",
+              "https://source.unsplash.com/800x600/?underwater,hotel",
+              "https://source.unsplash.com/800x600/?city,skyline",
+              "https://source.unsplash.com/800x600/?sky,high,apartment"
+            ],
+            "price": 30,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 10,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"   
+            ],
+            "price": 490,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 11,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"   
+            ],
+            "price": 700,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 12,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 120,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 13,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 223,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 14,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 540,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 15,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 217,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 16,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 860,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 17,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 18,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house" 
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 19,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 20,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 21,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 22,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 23,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 24,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 25,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 26,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 27,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 27,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 28,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 29,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house",
+              "https://source.unsplash.com/800x600/?countryside,cottage",
+              "https://source.unsplash.com/800x600/?safari,tent"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 30,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?tropical,beach",
+              "https://source.unsplash.com/800x600/?villa,tropical",
+              "https://source.unsplash.com/800x600/?rustic,farmhouse",
+              "https://source.unsplash.com/800x600/?suburban,home",
+              "https://source.unsplash.com/800x600/?beach,house"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 31,
+            "name": "Minimalist Chic Studio",
+            "description": "Sleek and minimalist studio apartment with stunning city views.",
+            "images": [
+              "https://source.unsplash.com/800x600/?underwater,hotel",
+              "https://source.unsplash.com/800x600/?city,skyline",
+              "https://source.unsplash.com/800x600/?sky,high,apartment",
+              "https://source.unsplash.com/800x600/?forest,lodge"
+            ],
+            "price": 90,
+            "location": "Midtown, Manhattan",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Tropical",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Beachfront Bungalow",
+            "description": "Cozy bungalow right on the beach, surrounded by palm trees.",
+            "images": [
+              "https://picsum.photos/800/600?random=18"
+            ],
+            "price": 150,
+            "location": "Tropical Paradise Island",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Exotic Villa Retreat",
+            "description": "Private villa with a tropical garden and ocean views.",
+            "images": [
+              "https://picsum.photos/800/600?random="
+            ],
+            "price": 200,
+            "location": "Jungle Beach, Thailand",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Beachfront",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Islands",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 5,
+        "category": "Private Rooms",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "Amazing Pools",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          } 
+        ]
+      },
+      {
+        "id": 7,
+        "category": "Amazing views",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 8,
+        "category": "Camping",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 9,
+        "category": "Campers",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 10,
+        "category": "Historical Homes",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 11,
+        "category": "Minsus",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      },
+      {
+        "id": 12,
+        "category": "Tiny Homes",
+        "roomList": [
+          {
+            "id": 1,
+            "name": "Seaside Cottage",
+            "description": "Quaint cottage with direct access to a sandy beach.",
+            "images": [
+              "https://picsum.photos/800/600?random=5"
+            ],
+            "price": 110,
+            "location": "Beachfront, Malibu",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          },
+          {
+            "id": 2,
+            "name": "Sunset Beach House",
+            "description": "Modern beachfront house with breathtaking sunset views.",
+            "images": [
+              "https://picsum.photos/800/600?random=6"
+            ],
+            "price": 180,
+            "location": "Oceanfront, Miami",
+            "beds":4,
+            "baths":3,
+            "distance_km":24
+          }
+          
+        ]
+      }
+      
+    ]
+  }
